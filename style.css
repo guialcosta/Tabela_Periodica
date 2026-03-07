@@ -1,0 +1,176 @@
+.border {
+    text-align: center;
+    border: solid;
+}
+
+td {
+    width: 5%;
+}
+
+div {
+    text-align: left;
+}
+
+table {
+    width: 90%;
+    height: 100vh;
+    margin: auto;
+}
+
+.naometais {
+    background-color: greenyellow;
+}
+
+.malcalinos {
+    background-color: orange;
+}
+
+.malcalinoterrosos {
+    background-color: yellow;
+}
+
+.memtransicao {
+    background-color: rgb(163, 52, 52);
+}
+
+.gasesnobres {
+    background-color: darkcyan
+}
+
+.halogenios {
+    background-color: rgb(79, 240, 240);
+}
+
+.lantanideos {
+    background-color: rgb(52, 52, 160);
+}
+
+.actinidios {
+    background-color: rgb(194, 131, 141);
+}
+
+.semimetais {
+    background-color: rgb(64, 99, 97);
+}
+
+.outrosmetais {
+    background-color: gray;
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.legenda {
+    display: flex;
+}
+
+#naometais1 {
+    background-color: greenyellow;
+    padding-right: 25px;
+    height: 25px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+#metaisalcalinos {
+    background-color: orange;
+    padding-right: 25px;
+    height: 25px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+#semimetais1 {
+    background-color: rgb(64, 99, 97);
+    padding-right: 25px;
+    height: 25px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+#texto {
+    margin-top: 25px;
+}
+
+#outrosmetais1 {
+    background-color: gray;
+    padding-right: 25px;
+    height: 25px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+#lantanideos1 {
+    background-color: rgb(52, 52, 160);
+    padding-right: 25px;
+    height: 25px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+#texto1 {
+    margin-top: 25px;
+}
+
+#gasesnobres1 {
+    background-color: darkcyan;
+    padding-right: 25px;
+    height: 25px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+#metaisalcalinoterrosos {
+    background-color: yellow;
+    padding-right: 25px;
+    height: 25px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+#texto2 {
+    margin-top: 08px;
+}
+
+
+#halogenios1 {
+    background-color: rgb(79, 240, 240);
+    padding-right: 25px;
+    height: 25px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+#texto3 {
+    margin-top: 25px;
+}
+
+#metaisdetransicao {
+    background-color: rgb(163, 52, 52);
+    padding-right: 25px;
+    height: 25px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+#texto4 {
+    margin-top: 08px;
+}
+
+#actinidios1 {
+    background-color: rgb(194, 131, 141);
+    padding-right: 25px;
+    height: 25px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+#texto5 {
+    margin-top: 25px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
